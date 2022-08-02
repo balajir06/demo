@@ -1,1 +1,2 @@
 print("gobi")
+print("krishna ")
