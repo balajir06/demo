@@ -1,2 +1,3 @@
-print("gobi")
-print("krishna ")
+print("ondu")
+print("ushna")
+
